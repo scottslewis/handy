@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Handy Simulation API
+Bundle-SymbolicName: com.composent.handy
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Composent, Inc.
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
